@@ -1,0 +1,470 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=pAEDn9oddHM&index=1&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "Mini Mix 2018",
+        "artist": "Illenium vs Porter Robinson",
+        "released": true,
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=U7B9Nv-Z9ag&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=2",
+        "name": "I Don't Dance",
+        "artist": "High School Musical 2",
+        "released": true,
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=k2rDbRUDkds&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=3",
+        "name": "TNT",
+        "artist": "CaptainSparklez",
+        "released": true,
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=I-sH53vXP2A&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=4",
+        "name": "Fallen Kingdom",
+        "artist": "CaptainSparklez",
+        "released": true,
+        "soundId": "sound.mcdisc.4"
+    },
+    {
+        "id": 5,
+        "minecraftId": "item.mcdisc.5",
+        "url": "https://www.youtube.com/watch?v=cPJUBQd-PNM&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=5",
+        "name": "Revenge",
+        "artist": "CaptainSparklez",
+        "released": true,
+        "soundId": "sound.mcdisc.5"
+    },
+    {
+        "id": 6,
+        "minecraftId": "item.mcdisc.6",
+        "url": "https://www.youtube.com/watch?v=GsF05B8TFWg&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=6",
+        "name": "More Than You Know",
+        "artist": "Axwell Λ Ingrosso",
+        "released": true,
+        "soundId": "sound.mcdisc.6"
+    },
+    {
+        "id": 7,
+        "minecraftId": "item.mcdisc.7",
+        "url": "https://www.youtube.com/watch?v=J0xe5DcnYSA&index=7&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "Holiday / Boulevard of Broken Dreams",
+        "artist": "Green Day",
+        "released": true,
+        "soundId": "sound.mcdisc.7"
+    },
+    {
+        "id": 8,
+        "minecraftId": "item.mcdisc.8",
+        "url": "https://www.youtube.com/watch?v=moSFlvxnbgk&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=8",
+        "name": "Let It Go",
+        "artist": "Idina Menzel",
+        "released": true,
+        "soundId": "sound.mcdisc.8"
+    },
+    {
+        "id": 9,
+        "minecraftId": "item.mcdisc.9",
+        "url": "https://www.youtube.com/watch?v=FTQbiNvZqaY&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=9",
+        "name": "Africa",
+        "artist": "Toto",
+        "released": true,
+        "soundId": "sound.mcdisc.9"
+    },
+    {
+        "id": 10,
+        "minecraftId": "item.mcdisc.10",
+        "url": "https://www.youtube.com/watch?v=WyF8RHM1OCg&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=10",
+        "name": "Here I Go Again",
+        "artist": "Whitesnake",
+        "released": true,
+        "soundId": "sound.mcdisc.10"
+    },
+    {
+        "id": 11,
+        "minecraftId": "item.mcdisc.11",
+        "url": "https://www.youtube.com/watch?v=1y6smkh6c-0&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=11",
+        "name": "Don't You Worry Child ft. John Martin",
+        "artist": "Swedish House Mafia",
+        "released": true,
+        "soundId": "sound.mcdisc.11"
+    },
+    {
+        "id": 12,
+        "minecraftId": "item.mcdisc.12",
+        "url": "https://www.youtube.com/watch?v=L_jWHffIx5E&index=12&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "All Star",
+        "artist": "Smash Mouth",
+        "released": true,
+        "soundId": "sound.mcdisc.12"
+    },
+    {
+        "id": 13,
+        "minecraftId": "item.mcdisc.13",
+        "url": "https://www.youtube.com/watch?v=p47fEXGabaY&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=13",
+        "name": "Livin' La Vida Loca",
+        "artist": "Ricky Martin",
+        "released": true,
+        "soundId": "sound.mcdisc.13"
+    },
+    {
+        "id": 14,
+        "minecraftId": "item.mcdisc.14",
+        "url": "https://www.youtube.com/watch?v=GI6CfKcMhjY&index=14&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "Jack Sparrow (feat. Michael Bolton)",
+        "artist": "thelonelyisland",
+        "released": true,
+        "soundId": "sound.mcdisc.14"
+    },
+    {
+        "id": 15,
+        "minecraftId": "item.mcdisc.15",
+        "url": "https://www.youtube.com/watch?v=QUypt2nvorM&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=15",
+        "name": "Accidentally in Love",
+        "artist": "Counting Crows",
+        "released": true,
+        "soundId": "sound.mcdisc.15"
+    },
+    {
+        "id": 16,
+        "minecraftId": "item.mcdisc.16",
+        "url": "https://www.youtube.com/watch?v=8SbUC-UaAxE&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=16",
+        "name": "November Rain",
+        "artist": "Guns N' Roses",
+        "released": true,
+        "soundId": "sound.mcdisc.16"
+    },
+    {
+        "id": 17,
+        "minecraftId": "item.mcdisc.17",
+        "url": "https://www.youtube.com/watch?v=gGdGFtwCNBE&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=17",
+        "name": "Mr. Brightside",
+        "artist": "The Killers",
+        "released": true,
+        "soundId": "sound.mcdisc.17"
+    },
+    {
+        "id": 18,
+        "minecraftId": "item.mcdisc.18",
+        "url": "https://www.youtube.com/watch?v=QoitiIbdeaM&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=18",
+        "name": "Fireflies (Said The Sky Remix)",
+        "artist": "Owl City",
+        "released": true,
+        "soundId": "sound.mcdisc.18"
+    },
+    {
+        "id": 19,
+        "minecraftId": "item.mcdisc.19",
+        "url": "https://www.youtube.com/watch?v=YlUKcNNmywk&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=19",
+        "name": "Californication",
+        "artist": "Red Hot Chili Peppers",
+        "released": true,
+        "soundId": "sound.mcdisc.19"
+    },
+    {
+        "id": 20,
+        "minecraftId": "item.mcdisc.20",
+        "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk&index=20&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "Despacito ft. Daddy Yankee",
+        "artist": "Luis Fonsi",
+        "released": true,
+        "soundId": "sound.mcdisc.20"
+    },
+    {
+        "id": 21,
+        "minecraftId": "item.mcdisc.21",
+        "url": "https://www.youtube.com/watch?v=rMEBCK0Zzv8&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=21",
+        "name": "Renegade",
+        "artist": "Paramore",
+        "released": true,
+        "soundId": "sound.mcdisc.21"
+    },
+    {
+        "id": 22,
+        "minecraftId": "item.mcdisc.22",
+        "url": "https://www.youtube.com/watch?v=129kuDCQtHs&index=22&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "Dancing In the Dark",
+        "artist": "Bruce Springsteen",
+        "released": true,
+        "soundId": "sound.mcdisc.22"
+    },
+    {
+        "id": 23,
+        "minecraftId": "item.mcdisc.23",
+        "url": "https://www.youtube.com/watch?v=107dADrIVBk&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=23",
+        "name": "New Coat of Paint",
+        "artist": "Tom Waits",
+        "released": true,
+        "soundId": "sound.mcdisc.23"
+    },
+    {
+        "id": 24,
+        "minecraftId": "item.mcdisc.24",
+        "url": "https://www.youtube.com/watch?v=Jbp52Z9jRg0&index=24&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5",
+        "name": "I'll make a man out of you",
+        "artist": "mulan",
+        "released": true,
+        "soundId": "sound.mcdisc.24"
+    },
+    {
+        "id": 25,
+        "minecraftId": "item.mcdisc.25",
+        "url": "https://www.youtube.com/watch?v=-WcHPFUwd6U&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=25",
+        "name": "Son Of Man",
+        "artist": "Tarzan",
+        "released": true,
+        "soundId": "sound.mcdisc.25"
+    },
+    {
+        "id": 26,
+        "minecraftId": "item.mcdisc.26",
+        "url": "https://www.youtube.com/watch?v=EA68KUb4e7Q&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=26",
+        "name": "i'm still here",
+        "artist": "Treasure Planet",
+        "released": true,
+        "soundId": "sound.mcdisc.26"
+    },
+    {
+        "id": 27,
+        "minecraftId": "item.mcdisc.27",
+        "url": "https://www.youtube.com/watch?v=4SZAR3cLDEI&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=27",
+        "name": "Here I am",
+        "artist": "Spirit",
+        "released": true,
+        "soundId": "sound.mcdisc.27"
+    },
+    {
+        "id": 28,
+        "minecraftId": "item.mcdisc.28",
+        "url": "https://www.youtube.com/watch?v=eKV5HOVi0r4&list=PL95ZOtGO1hRD0Q53cd8DDTAi2m8MXAPm5&index=28",
+        "name": "On My Way",
+        "artist": "Phil Collins",
+        "released": true,
+        "soundId": "sound.mcdisc.28"
+    },
+    {
+        "id": 29,
+        "minecraftId": "item.mcdisc.29",
+        "url": "https://www.youtube.com/watch?v=9RHFFeQ2tu4&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=2&t=0s",
+        "name": "SOURCE",
+        "artist": "Fever The Ghost",
+        "released": true,
+        "soundId": "sound.mcdisc.29"
+    },
+    {
+        "id": 30,
+        "minecraftId": "item.mcdisc.30",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=2",
+        "name": "??? ???",
+        "artist": "Dont play me",
+        "released": true,
+        "soundId": "sound.mcdisc.30"
+    },
+    {
+        "id": 31,
+        "minecraftId": "item.mcdisc.31",
+        "url": "https://www.youtube.com/watch?v=PfYnvDL0Qcw&index=3&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "We are Number One",
+        "artist": "Lazy Town",
+        "released": true,
+        "soundId": "sound.mcdisc.31"
+    },
+    {
+        "id": 32,
+        "minecraftId": "item.mcdisc.32",
+        "url": "https://www.youtube.com/watch?v=KmtzQCSh6xk&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=4",
+        "name": "Numa Numa",
+        "artist": "Internet dude",
+        "released": true,
+        "soundId": "sound.mcdisc.32"
+    },
+    {
+        "id": 33,
+        "minecraftId": "item.mcdisc.33",
+        "url": "https://www.youtube.com/watch?v=4IRdw_Qgwqc&index=5&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "My Shiny Teeth and Me",
+        "artist": "Chip Skylark",
+        "released": true,
+        "soundId": "sound.mcdisc.33"
+    },
+    {
+        "id": 34,
+        "minecraftId": "item.mcdisc.34",
+        "url": "https://www.youtube.com/watch?v=4rrXR6n0RTY&index=6&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "Everybody wants to be a cat",
+        "artist": "The Aristocats",
+        "released": true,
+        "soundId": "sound.mcdisc.34"
+    },
+    {
+        "id": 35,
+        "minecraftId": "item.mcdisc.35",
+        "url": "https://www.youtube.com/watch?v=v5izoJIp3qQ&index=7&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "lilo and stitch theme",
+        "artist": "lilo and stitch",
+        "released": true,
+        "soundId": "sound.mcdisc.35"
+    },
+    {
+        "id": 36,
+        "minecraftId": "item.mcdisc.36",
+        "url": "https://www.youtube.com/watch?v=6Oj79WGfQec&index=8&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "Ain't Got Rhythm",
+        "artist": "Phineas and Ferb",
+        "released": true,
+        "soundId": "sound.mcdisc.36"
+    },
+    {
+        "id": 37,
+        "minecraftId": "item.mcdisc.37",
+        "url": "https://www.youtube.com/watch?v=V1bFr2SWP1I&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=9",
+        "name": "Somewhere over the Rainbow",
+        "artist": "Israel IZ Kamakawiwoʻole",
+        "released": true,
+        "soundId": "sound.mcdisc.37"
+    },
+    {
+        "id": 38,
+        "minecraftId": "item.mcdisc.38",
+        "url": "https://www.youtube.com/watch?v=Fegs-XVKgnM&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=10",
+        "name": "X Gon Give It To Ya Maybe",
+        "artist": "Carly Rae Jepsen vs. DMX",
+        "released": true,
+        "soundId": "sound.mcdisc.38"
+    },
+    {
+        "id": 39,
+        "minecraftId": "item.mcdisc.39",
+        "url": "https://www.youtube.com/watch?v=W9P_qUnMaFg&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=11",
+        "name": "In My Mind",
+        "artist": "Dynoro & Gigi D’Agostino",
+        "released": true,
+        "soundId": "sound.mcdisc.39"
+    },
+    {
+        "id": 40,
+        "minecraftId": "item.mcdisc.40",
+        "url": "https://www.youtube.com/watch?v=oWYp1xRPH5g&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=12",
+        "name": "I See Fire Kygo Remix",
+        "artist": "Ed Sheeran vs kygo",
+        "released": true,
+        "soundId": "sound.mcdisc.40"
+    },
+    {
+        "id": 41,
+        "minecraftId": "item.mcdisc.41",
+        "url": "https://www.youtube.com/watch?v=4ZHwu0uut3k&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=13",
+        "name": "Another Love (Zwette Edit)",
+        "artist": "Tom Odell",
+        "released": true,
+        "soundId": "sound.mcdisc.41"
+    },
+    {
+        "id": 42,
+        "minecraftId": "item.mcdisc.42",
+        "url": "https://www.youtube.com/watch?v=Gx0dV64rNVM&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=14",
+        "name": "Don't You Worry Child vs. Wake Me up",
+        "artist": "Swedish House Mafia vs. Avicii",
+        "released": true,
+        "soundId": "sound.mcdisc.42"
+    },
+    {
+        "id": 43,
+        "minecraftId": "item.mcdisc.43",
+        "url": "https://www.youtube.com/watch?v=MV_3Dpw-BRY&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=15",
+        "name": "Nightcall",
+        "artist": "Kavinsky",
+        "released": true,
+        "soundId": "sound.mcdisc.43"
+    },
+    {
+        "id": 44,
+        "minecraftId": "item.mcdisc.44",
+        "url": "https://www.youtube.com/watch?v=UbQgXeY_zi4&index=16&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "Lone Digger",
+        "artist": "Caravan Palace",
+        "released": true,
+        "soundId": "sound.mcdisc.44"
+    },
+    {
+        "id": 45,
+        "minecraftId": "item.mcdisc.45",
+        "url": "https://www.youtube.com/watch?v=Odum0r9gxA8&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=17",
+        "name": "Dreamer",
+        "artist": "Axwell Λ Ingrosso",
+        "released": true,
+        "soundId": "sound.mcdisc.45"
+    },
+    {
+        "id": 46,
+        "minecraftId": "item.mcdisc.46",
+        "url": "https://www.youtube.com/watch?v=dX3k_QDnzHE&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=18",
+        "name": "Midnight City",
+        "artist": "M83",
+        "released": true,
+        "soundId": "sound.mcdisc.46"
+    },
+    {
+        "id": 47,
+        "minecraftId": "item.mcdisc.47",
+        "url": "https://www.youtube.com/watch?v=ImPM5IDIYPs&index=19&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "The Name of Life",
+        "artist": "Spirited Away",
+        "released": true,
+        "soundId": "sound.mcdisc.47"
+    },
+    {
+        "id": 48,
+        "minecraftId": "item.mcdisc.48",
+        "url": "https://www.youtube.com/watch?v=UwxatzcYf9Q&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=20",
+        "name": "OST - Theme Song",
+        "artist": "Howl's Moving Castle",
+        "released": true,
+        "soundId": "sound.mcdisc.48"
+    },
+    {
+        "id": 49,
+        "minecraftId": "item.mcdisc.49",
+        "url": "https://www.youtube.com/watch?v=MZgBjQFMPvk&index=21&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "Path of The Wind",
+        "artist": "My Neighbor Totoro",
+        "released": true,
+        "soundId": "sound.mcdisc.49"
+    },
+    {
+        "id": 50,
+        "minecraftId": "item.mcdisc.50",
+        "url": "https://www.youtube.com/watch?v=KgEQNlR4A6o&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=22",
+        "name": "Reprise / Again",
+        "artist": "Spirited Away",
+        "released": true,
+        "soundId": "sound.mcdisc.50"
+    },
+    {
+        "id": 51,
+        "minecraftId": "item.mcdisc.51",
+        "url": "https://www.youtube.com/watch?v=5pidokakU4I&index=23&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz",
+        "name": "4 Four Chord Song",
+        "artist": "Axis of Awesome",
+        "released": true,
+        "soundId": "sound.mcdisc.51"
+    },
+    {
+        "id": 52,
+        "minecraftId": "item.mcdisc.52",
+        "url": "https://www.youtube.com/watch?v=Hy0Aati_l-E&list=PL95ZOtGO1hRBECpU3ejA3SteyrMZTiEbz&index=24",
+        "name": "Human Music",
+        "artist": "Rick and Morty",
+        "released": true,
+        "soundId": "sound.mcdisc.52"
+    }
+]
